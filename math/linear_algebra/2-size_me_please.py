@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-A function that returns the shape of a matrix
+A functin that returns the shape of a matrix
 """
 
 
